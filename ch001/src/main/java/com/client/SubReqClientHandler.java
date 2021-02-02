@@ -1,6 +1,5 @@
-package client;
+package com.client;
 
-import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import protobuf.SubscribeReqProto;
